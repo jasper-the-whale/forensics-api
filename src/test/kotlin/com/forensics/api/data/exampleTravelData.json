@@ -1,0 +1,40 @@
+{
+  "movements": [
+    {
+      "direction": "WEST",
+      "distance": 1
+    },
+    {
+      "direction": "SOUTH",
+      "distance": 1
+    },
+    {
+      "direction": "EAST",
+      "distance": 2
+    },
+    {
+      "direction": "NORTH",
+      "distance": 3
+    },
+    {
+      "direction": "WEST",
+      "distance": 2
+    },
+    {
+      "direction": "WEST",
+      "distance": 1
+    },
+    {
+      "direction": "EAST",
+      "distance": 3
+    },
+    {
+      "direction": "NORTH",
+      "distance": 1
+    }
+  ],
+  "startLocation": {
+    "x": 0,
+    "y": 0
+  }
+}

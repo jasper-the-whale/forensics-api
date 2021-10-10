@@ -1,0 +1,11 @@
+# General
+server:
+  port: 8080
+---
+# Spring
+spring:
+  application:
+    name: forensics-api
+
+authentication:
+  emails: [ "secret@email.co.uk","password@email.com" ]
